@@ -118,7 +118,7 @@ public:
 		return -1;
 	} //filter find
 	int _toint(int _Base = 10) {
-		const char* _Ptr = m_string;	// using the std method to convert to int
+		const char* _Ptr = m_string;
 		char* _Eptr;
 		const long _Ans = strtol(_Ptr, &_Eptr, _Base);
 		if (_Ptr == _Eptr) {
