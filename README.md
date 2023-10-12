@@ -1,5 +1,5 @@
 # c_string
-A simpler, more effective and faster version of std::string
+A simpler version of std::string
 This header can be used in all projects and can be modified to your liking.
 This header was created just to ease future projects for myself and others.
 
